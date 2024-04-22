@@ -4,15 +4,13 @@ OpenVPN 2.6.9 gzip file and the Tunnelblick XOR patch can be obtained on
 <a>https://github.com/Tunnelblick/Tunnelblick/tree/master/third_party/sources/openvpn/openvpn-2.6.9 </a>
 
 <h2>Installation:</h2>
-<code>
-wget https://github.com/lifenli/openvpn-2.6.9-xor-amd64/raw/main/openvpn-2.6.9-xor-amd64.deb
-sudo dpkg -i openvpn-2.6.9-xor-amd64.deb
-</code>
+<code>wget https://github.com/lifenli/openvpn-2.6.9-xor-amd64/raw/main/openvpn-2.6.9-xor-amd64.deb
+sudo dpkg -i openvpn-2.6.9-xor-amd64.deb</code>
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 <h2>If you wish to compile it by yourself, here are the steps:<h2>
-
+<div>
 1. Download the gzip file for openvpn 2.6.9
 <code>
 wget https://github.com/Tunnelblick/Tunnelblick/raw/master/third_party/sources/openvpn/openvpn-2.6.9/openvpn-2.6.9.tar.gz 
@@ -65,3 +63,4 @@ sudo mkdir /etc/openvpn
 sudo mkdir /etc/openvpn/server
 sudo mkdir /etc/openvpn/client
 </code>
+</div>
