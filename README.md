@@ -19,7 +19,7 @@ sudo dpkg -i openvpn-2.6.9-xor-amd64.deb</code>
 
   <code>wget https://github.com/Tunnelblick/Tunnelblick/raw/master/third_party/sources/openvpn/openvpn-2.6.9/openvpn-2.6.9.tar.gz </code>
 
-2. Fetch the Xor patch files for Tunnelblick:
+2. Fetch the Xor patch files for Tunnelblick, install the unzip utility, and extract the downloaded archive
 
 <code>wget https://github.com/Tunnelblick/Tunnelblick/archive/master.zip
 sudo apt-get install unzip
