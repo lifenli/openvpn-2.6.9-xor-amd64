@@ -12,6 +12,7 @@ sudo dpkg -i openvpn-2.6.9-xor-amd64.deb</code>
 
 <h2>If you wish to compile it by yourself, here are the steps:</h2>
 <div>
+  
 1. Download the gzip file for openvpn 2.6.9
 
   <code>wget https://github.com/Tunnelblick/Tunnelblick/raw/master/third_party/sources/openvpn/openvpn-2.6.9/openvpn-2.6.9.tar.gz </code>
