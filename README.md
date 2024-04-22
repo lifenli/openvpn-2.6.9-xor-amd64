@@ -4,7 +4,7 @@ NOTE: The XOR patch is employed to enable scramble obfuscation, catering specifi
 <h3>OpenVPN 2.6.9 gzip file and the Tunnelblick XOR patches can be obtained on</h3>
 <a href="https://github.com/Tunnelblick/Tunnelblick/tree/master/third_party/sources/openvpn/openvpn-2.6.9">github-tunnelblick</a>
 
-<h2>Download and Installation:</h2>
+<h2>Download and Install:</h2>
 
 <code>wget https://github.com/lifenli/openvpn-2.6.9-xor-amd64/raw/main/openvpn-2.6.9-xor-amd64.deb
 sudo dpkg -i openvpn-2.6.9-xor-amd64.deb</code>
