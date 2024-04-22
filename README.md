@@ -1,4 +1,5 @@
 <h1>OpenVPN 2.6.9 Client package compiled with XOR patch for Ubuntu/Debian </h1>
+<h2>The XOR patch is employed to enable scramble obfuscation, catering specifically to restricted countries.</h2>
 
 <h3>OpenVPN 2.6.9 gzip file and the Tunnelblick XOR patch can be obtained on</h3>
 <a href="https://github.com/Tunnelblick/Tunnelblick/tree/master/third_party/sources/openvpn/openvpn-2.6.9">github-tunnelblick</a>
