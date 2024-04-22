@@ -65,4 +65,4 @@ sudo mkdir /etc/openvpn/client</code>
 <br/>
 This repository contains a compiled OpenVPN package based on the Tunnelblick project, which is licensed under the GNU General Public License v2.0.
 The compiled OpenVPN package in this repository is also licensed under the GNU General Public License v2.0.
-For more information, please see refer to <a href="https://github.com/Tunnelblick/Tunnelblick/blob/master/COPYING">TunnelBlick License</a>
+For more information, please refer to <a href="https://github.com/Tunnelblick/Tunnelblick/blob/master/COPYING">TunnelBlick License</a>
