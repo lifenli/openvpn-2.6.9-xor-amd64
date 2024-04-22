@@ -1,10 +1,5 @@
 <h1>OpenVPN 2.6.9 Client package compiled with XOR patch for Ubuntu/Debian </h1>
-<quote>NOTE: 
-1. The XOR patch is employed to enable scramble obfuscation, catering specifically to restricted countries.
-2. This repository contains a compiled OpenVPN package based on the Tunnelblick project, which is licensed under the GNU General Public License v2.0.
-3. The compiled OpenVPN package in this repository is also licensed under the GNU General Public License v2.0.
-4. For more information, please see refer to <a href="https://github.com/Tunnelblick/Tunnelblick/blob/master/COPYING">TunnelBlick License</a>
-</quote>
+NOTE: The XOR patch is employed to enable scramble obfuscation, catering specifically to restricted countries.
 
 
 <h3>OpenVPN 2.6.9 gzip file and the Tunnelblick XOR patches can be obtained on</h3>
@@ -66,3 +61,7 @@ sudo mkdir /etc/openvpn
 sudo mkdir /etc/openvpn/server
 sudo mkdir /etc/openvpn/client</code>
 </div>
+
+This repository contains a compiled OpenVPN package based on the Tunnelblick project, which is licensed under the GNU General Public License v2.0.
+The compiled OpenVPN package in this repository is also licensed under the GNU General Public License v2.0.
+For more information, please see refer to <a href="https://github.com/Tunnelblick/Tunnelblick/blob/master/COPYING">TunnelBlick License</a>
