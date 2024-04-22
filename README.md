@@ -7,7 +7,7 @@ NOTE: The XOR patch is employed to enable scramble obfuscation, catering specifi
 
 <h2>Download and Install:</h2>
 
-<code>wget https://github.com/lifenli/openvpn-2.6.9-xor-amd64/raw/main/openvpn-2.6.9-xor-amd64.deb
+<code>wget https://github.com/momointheworld/openvpn-2.6.9-xor-amd64/raw/main/openvpn-2.6.9-xor-amd64.deb
 sudo dpkg -i openvpn-2.6.9-xor-amd64.deb</code>
 
 
