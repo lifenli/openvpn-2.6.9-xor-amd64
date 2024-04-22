@@ -42,16 +42,16 @@ patch -p1 < 06-tunnelblick-openvpn_xorpatch-e.diff</code>
 
 <code>sudo apt-get install build-essential libssl-dev iproute2 liblz4-dev liblzo2-dev libpam0g-dev libpkcs11-helper1-dev libsystemd-dev resolvconf pkg-config</code>
 
-6. Build, make, and install OpenVPN with Xor patch:
+6. configures the software build process to include support for systemd integration, asynchronous push operations, and iproute2 networking utility suite integration:
 
 <code>./configure --enable-systemd --enable-async-push --enable-iproute2</code>
 
-7. If it shows libcao-ng package not found:
+7. If it shows "libcao-ng package" not found:
 
 <code>sudo apt-get install libcap-ng0
 sudo apt-get install libcap-dev</code>
 
-8. Run the following commands again:
+8. Reconfig for build, make and install the package:
 
 <code>./configure --enable-systemd --enable-async-push --enable-iproute2
 make
